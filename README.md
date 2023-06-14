@@ -28,7 +28,7 @@ print(sol)
 ![image](https://github.com/SivaramakrishnanBaskar/RANK-OF-A-MATRIX/assets/119476322/55bbb126-5a5f-4738-9f88-ed25809af609)
 
 ## Output:
-![Rec_2-out](https://user-images.githubusercontent.com/119476322/229534131-8223971c-6c0e-4dab-9076-97b06b1ae5a6.png)
+![image](https://github.com/SivaramakrishnanBaskar/RANK-OF-A-MATRIX/assets/119476322/275d0de0-054c-4a81-8d3f-15055cc0709b)
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
